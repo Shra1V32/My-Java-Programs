@@ -1,7 +1,7 @@
 /**
  * Main
  */
-public class Main {
+public class Types {
 
     public static void main(String[] args) {
         byte b = 5;
