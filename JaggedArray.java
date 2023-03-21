@@ -1,3 +1,9 @@
+/*
+ * What is Jagged Array? An irrregularily shaped Matrix is known as Jagged Array
+ * Meaning it can have different number of elements under its sub-array
+ * This is how Java works :3
+ */
+
 public class JaggedArray {
     public static void main(String[] args) {
         int myarray[][] = new int[3][];
