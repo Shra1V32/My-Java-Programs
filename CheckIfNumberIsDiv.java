@@ -4,7 +4,7 @@ public class CheckIfNumberIsDiv {
         // Scanner sc = new Scanner(System.in);
         int a = Integer.parseInt(args[0]);
         // int b = Integer.parseInt(args[1]);
-        int k = (a&(a-1)); 
+        int k = (a & (a - 1));
         System.out.println(k);
     }
 }
